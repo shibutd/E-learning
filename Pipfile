@@ -5,12 +5,13 @@ name = "pypi"
 
 [packages]
 django = "==3.0.*"
-pillow = "==7.0.0"
 django-braces = "*"
 djangorestframework = "*"
 django-embed-video = "*"
 django-redis = "*"
 locust = "*"
+psycopg2 = "*"
+pillow = "*"
 
 [dev-packages]
 
